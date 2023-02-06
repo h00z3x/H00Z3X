@@ -12,10 +12,6 @@
 <img src="https://badgen.net/discord/members/SS3hHXAgsX">
 </a>
 
-![views](https://komarev.com/ghpvc/?username=h00z3x&label=Profile%20views&color=0e75b6&style=flat)
- [![Website LostIsland](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://lostisland.gq)
-![discordserver](https://badgen.net/discord/members/SS3hHXAgsX)
-
 </p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=h00z3x&theme=onedark" alt="h00z3x" /> </p>
 <div>
