@@ -33,9 +33,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h00z3x&show_icons=true&theme=cobalt&locale=en" alt="h00z3x" /></p>
 <div class="row" style="display: table; clear: both;">
         <div class="col" style="width: 50%; float: left;">
-        <img src="https://discordapp.com/api/guilds/1015701743583113247/widget.png?style=banner2" alt="Discord Banner" style="border-radius: 10px 0 0 10px" />
+        <img src="https://discordapp.com/api/guilds/1015701743583113247/widget.png?style=banner2" alt="Discord Banner"/>
         </div>
     <div class="col" style="width: 50%; float: left;">
-        <img src="https://discord-readme-badge.vercel.app/api?id=457837032346091531" alt="Discord Banner" style="border-radius: 0 10px 10px 0"/>
-    </div></div>
+        <img src="https://discord-readme-badge.vercel.app/api?id=457837032346091531" alt="Discord Banner"/>
+    </div>
+</div>
 
