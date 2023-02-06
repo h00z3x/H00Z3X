@@ -3,11 +3,13 @@
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/88270748&fit=cover&mask=circle&maxage=7d" height="auto" width="200">
 </p>
 <h3 align="center">I'm the owner and also the developer of Lost Island mc server! And I love working on Projects as a developer!</h3>
+<p align="center">
 
 ![views](https://komarev.com/ghpvc/?username=h00z3x&label=Profile%20views&color=0e75b6&style=flat)
  [![Website LostIsland](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://lostisland.gq)
 ![discordserver](https://badgen.net/discord/members/SS3hHXAgsX)
 
+</p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=h00z3x&theme=onedark" alt="h00z3x" /> </p>
 <div>
 
