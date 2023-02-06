@@ -4,6 +4,13 @@
 </p>
 <h3 align="center">I'm the owner and also the developer of Lost Island mc server! And I love working on Projects as a developer!</h3>
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=h00z3x&label=Profile%20views&color=0e75b6&style=flat">
+<a href="https://lostisland.gq">
+<img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
+</a>
+<a href="https://discord.gg/SS3hHXAgsX">
+<img src="https://badgen.net/discord/members/SS3hHXAgsX">
+</a>
 
 ![views](https://komarev.com/ghpvc/?username=h00z3x&label=Profile%20views&color=0e75b6&style=flat)
  [![Website LostIsland](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://lostisland.gq)
