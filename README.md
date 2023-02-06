@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm H00z3x</h1>
 <img src="https://avatars.githubusercontent.com/u/88270748?v=4" style="height:250px;width:250px;border-radius: 50%; display: block;margin: 0 auto; margin-bottom: 20px">
-<h3 align="center" style="background-color: #0000004f;border-radius: 5px;padding: 10px;">I'm the owner and also the developer of Lost Island mc server! And I love working on Projects as a developer!</h3>
+<h3 align="center" style="padding: 10px;">I'm the owner and also the developer of Lost Island mc server! And I love working on Projects as a developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h00z3x&label=Profile%20views&color=0e75b6&style=flat" alt="h00z3x" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=h00z3x&theme=onedark" alt="h00z3x" /> </p>
-<div style="background-color: #0000004f;border-radius: 5px;padding: 10px;margin:10px">
+<div style="padding: 10px;margin:10px">
 
 - 🔭 I’m currently working on [My Server](https://dsc.gg/lostislandmc)
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📝 I regularly work on my site [https://lostisland.gq](https://lostisland.gq)
+- 📝 I regularly work on [my site](https://lostisland.gq)
 
 - 💬 Ask me about **anything!**
 
@@ -20,7 +20,7 @@
 - ⚡ Fun fact **Birds can fly!**
 
 </div>
-<div style="background-color: #0000004f;border-radius: 5px;padding: 20px;margin:5px;">
+<div style="padding: 20px;margin:5px;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lostisland.mc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lostisland.mc" height="30" width="40" /></a>
