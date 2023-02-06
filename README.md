@@ -28,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h00z3x&show_icons=true&locale=en" alt="h00z3x" /></p>
 <img src="https://discordapp.com/api/guilds/1015701743583113247/widget.png?style=banner2" alt="Discord Banner"/>
+<img src="https://discord-readme-badge.vercel.app/api?id=457837032346091531" alt="Discord Banner"/>
