@@ -11,7 +11,7 @@
 ## 🗿Status
 - 🔭 I’m currently working on [My Server](https://dsc.gg/lostislandmc)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Nothing**
 
 - 📝 I regularly work on [my site](https://lostisland.gq)
 
