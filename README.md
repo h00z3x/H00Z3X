@@ -5,19 +5,17 @@
 
 # 📝About Me
 
-### I'm the owner and also the developer of Lost Island mc server! And I love working on Projects as a developer!
+### I'm the former owner and also the former developer of Lost Island mc server! And I love working on Projects as a developer! Currently a developer on Snowy Network
 </br>
 
 ## 🗿Status
-- 🔭 I’m currently working on [My Server](https://dsc.gg/lostislandmc)
+- 🔭 I’m currently working on [Rise Network](https://discord.gg/FGGeA7U4vv)
 
 - 🌱 I’m currently learning **Nothing**
 
-- 📝 I regularly work on [my site](https://lostisland.gq)
-
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **support@lostisland.gq**
+- 📫 How to reach me **on Discord -> h00z3x**
 
 - ⚡ Fun fact **Birds can fly!**
 
