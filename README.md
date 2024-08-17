@@ -9,7 +9,7 @@
 </br>
 
 ## 🗿Status
-- 🔭 I’m currently working on [Rise Network](https://discord.gg/FGGeA7U4vv)
+- 🔭 I’m currently working on [Snowy Network](https://discord.gg/FGGeA7U4vv)
 
 - 🌱 I’m currently learning **Nothing**
 
