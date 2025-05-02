@@ -5,11 +5,11 @@
 
 # 📝About Me
 
-### I'm the former owner and also the former developer of Lost Island mc server! And I love working on Projects as a developer! Currently a developer on Snowy Network
+### I'm the former owner and also the former developer of Lost Island mc server! And I love working on Projects as a developer! Currently a developer on No Where
 </br>
 
 ## 🗿Status
-- 🔭 I’m currently working on [Snowy Network](https://discord.gg/FGGeA7U4vv)
+- 🔭 I’m currently working on nothing
 
 - 🌱 I’m currently learning **Nothing**
 
