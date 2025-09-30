@@ -5,7 +5,7 @@
 
 # 📝About Me
 
-### I'm the former owner and also the former developer of Lost Island mc server! And I love working on Projects as a developer! Currently a developer on No Where
+### I'm the owner and also the developer of Lost Island mc server! And I love working on Projects as a developer! Currently a developer on No Where
 </br>
 
 ## 🗿Status
